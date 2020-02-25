@@ -13,7 +13,9 @@ const jestUtils = require('@joyfulljs/jest-utils');
 
 # api
 
-.mockEventBinding(): void
+**.mockEventBinding(): void**  
+mock addEventListener/removeEventListener using jQuery so you can use jQuery to trigger event.
+
 
 # license
 MIT

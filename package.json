@@ -1,6 +1,6 @@
 {
   "name": "@joyfulljs/jest-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "some utils for jest test",
   "main": "index.js",
   "scripts": {
