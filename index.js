@@ -1,5 +1,5 @@
 
-const mockEventBinding = require('./src/ mockEventBinding');
+const mockEventBinding = require('./src/mockEventBinding');
 
 module.exports = {
   /**
