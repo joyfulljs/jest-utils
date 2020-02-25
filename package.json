@@ -11,7 +11,11 @@
     "url": "git+https://github.com/joyfulljs/jest-utils.git"
   },
   "keywords": [],
-  "author": "",
+  "files": [
+    "src",
+    "index.js"
+  ],
+  "author": "elvin zhu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/joyfulljs/jest-utils/issues"
